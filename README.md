@@ -7,7 +7,7 @@ Esta planilha contém informações e recursos relacionados a Copa do Mundo de C
 
 ## 📂 Arquivo disponível
 
-- `Mundia de Clubes FIFA 2025.xlsx` – Planilha em Excel com todos os dados atualizados do campeonato.
+- `Mundial de Clubes FIFA 2025.xlsx` – Planilha em Excel com todos os dados atualizados do campeonato.
 
 ## ✅ Como usar
 
